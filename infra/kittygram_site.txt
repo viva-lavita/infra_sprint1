@@ -2,4 +2,4 @@ IP: IP 158.160.70.236;
 name_taski: https://viva.hopto.org/;
 name_kittygram: https://kittygram-lavita.ddns.net/;
 login: Viva;
-password: qf1478951f
+password: qf1478951f;
