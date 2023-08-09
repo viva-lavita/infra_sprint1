@@ -247,9 +247,3 @@ sudo systemctl reload nginx
 ```
 34. Устновите ssl-сертификаты: 
 [Ссылка на certbot](https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal) 
-<<<<<<< HEAD
-
-=======
->>>>>>> b1962d1e5088b9861519110d9a2cc25b09f0e133
-=======
->>>>>>> 066bc3066becfb5eb82fcd85a8d14cf3c6479d55
